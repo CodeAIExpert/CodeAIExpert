@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/main/assets/banner.png?raw=true" alt="CodeAIExpert Banner" width="100%">
-</div>
+
 
 <div align="center">
   <img src="assets/BannerGitHub.png" alt="CodeAIExpert GitHub Banner" width="100%">
