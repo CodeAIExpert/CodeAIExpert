@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/BannerGitHub.png" alt="CodeAIExpert GitHub Banner" width="100%">
+  <img src="assets/CodeAIExpert-banner.jpg" alt="CodeAIExpert GitHub Banner" width="100%">
 </div>
 
 <br>
